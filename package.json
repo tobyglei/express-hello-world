@@ -1,0 +1,19 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "Express Hello World on 21box",
+  "main": "app.js",
+  "repository": "https://github.com/tobyglei/express-hello-world",
+  "author": "tobyglei",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=12 <13"
+  }
+}
