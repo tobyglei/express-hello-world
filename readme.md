@@ -6,7 +6,7 @@
 
 ## 部署
 
-详情看 [https://doc.21yunbox.com/#/deploy-node-express-app](https://doc.21yunbox.com/#/deploy-node-express-app)
+详情看 [https://www.21yunbox.com/docs/#/deploy-node-express-app](https://www.21yunbox.com/docs/#/deploy-node-express-app)
 或简单用以下配置构建
 
 1. 创建一个云服务
