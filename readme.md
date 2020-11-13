@@ -1,10 +1,8 @@
-# README
+# Node Express 在 [21云盒子](https://www.21yunbox.com/) 的示例
 
-这是 [21云盒子](http://www.21yunbox.com/) 的 Node [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) 样例。
+这是 [21云盒子](http://www.21yunbox.com/) 的 Node [Express](https://expressjs.com) 示例。
 
-这个应用已经部置在 [https://express.21yunbox.com](https://express.21yunbox.com)。
-
-## 部署
+## 部署教程入口
 
 详情看 [https://www.21yunbox.com/docs/#/deploy-node-express-app](https://www.21yunbox.com/docs/#/deploy-node-express-app)
 
