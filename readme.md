@@ -7,10 +7,6 @@
 ## 部署
 
 详情看 [https://www.21yunbox.com/docs/#/deploy-node-express-app](https://www.21yunbox.com/docs/#/deploy-node-express-app)
-或简单用以下配置构建
 
-1. 创建一个云服务
-2. 构建命令: `yarn`
-3. 启动命令: `node app.js`
-
-就是这么容易! 当构建完成，你的应用将会在21云盒子的子域名能访问。
+## 国内加速入口
+* [Gitee](https://gitee.com/eryiyunbox-examples/express-hello-world)
